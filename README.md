@@ -1,4 +1,4 @@
-# LeetCode All In One Forked
+# LeetCode All In One
 
 ![](https://img.shields.io/travis/skygragon/leetcode-cli.svg?style=flat)
 ![](https://img.shields.io/badge/language-C++-red.svg)
